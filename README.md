@@ -8,13 +8,14 @@ Moreover, I am proficient in backend solutions using Node/Express JS and Postgre
 🌱  I’m currently learning, I am looking forward to add expertise in Next JS, AWS Cloud Computing, and CI/CD pipelines using Google Cloud Build.</p>
 
 ## 🤔 Current Tech Stack
-<ul>
+<p><ul>
   <li>Front-End Development: JavaScript (ES6+), HTML5, CSS3, TypeScript React.js (Hooks/Context), Vue.js, Tailwind CSS, Bootstrap, UI/UX Principles.</li>
 <li>Backend & API Development: Node.js (Express.js, NestJS), RESTful API.</li>
 <li>Database Technologies: PostgreSQL, MySQL, Sequelize ORM, Google Cloud Platform (GCP), Relational Databases.</li>
 <li>Cloud and DevOps: Koyeb (Serverless PaaS), Neon, Git-Driven Deployment, CI/CD Pipelines, GitHub Actions, Cloudflare.</li>
 <li>Tools: Agile (kanban), Version Control Systems (Git), VS code, Postman.</li>
-</ul>
+</ul></p>
+
 
 ## 💬 Education and Certification
 <ul>
