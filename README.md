@@ -27,8 +27,8 @@ Moreover, I am proficient in backend solutions using Node/Express JS and Postgre
 
 ## 📫 Contact me
 <uL>
-  <li>⚡ LinkedIn</li>
-  <li>⚡ My Portfolio/blog website (jayanshrestha.com)</li>
+  <li>⚡<a href="https://www.linkedin.com/in/jayan-shrestha/"></a> LinkedIn</li>
+  <li>⚡<a href="https://jayanshrestha.com/"></a> My Portfolio/blog website (jayanshrestha.com)</li>
   <li>⚡ Email: jayanshrestha055@gmail.com</li>
 </uL>
 <!--
