@@ -5,7 +5,7 @@
 
 Moreover, I am proficient in backend solutions using Node/Express JS and PostgreSQL which enables me to build full-stack web application.
 
-🌱  I’m currently learning, I am looking forward to add expertise in Next JS, AWS Cloud Computing, and CI/CD pipelines using Google Cloud Build.</p>
+🌱  I’m currently learning, and looking forward to add expertise in Next JS, AWS Cloud Computing, and CI/CD pipelines using Google Cloud Build.</p>
 
 ## 🤔 Current Tech Stack
 <p><ul>
