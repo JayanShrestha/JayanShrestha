@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p classname="font-bold"> Hi, I am Full-stack software engineer specializing in mostly Frontend (React, Vue) and Backend (Node/Express). Currently, I am living in Sydney, Australia working as a frontend developer in AutechJobs. I am deeply passionate about solving problems by building scalable web applicaitons.
+<p classname="font-bold"> Hi, I am Full-stack software engineer specializing in mostly Frontend (React) and Backend (Node/Express JS, Nest JS). Currently, I am living in Sydney, Australia working as a frontend developer in AutechJobs. I am deeply passionate about solving problems by building scalable web applicaitons.
 
 🔭 I enjoy building high-performance, scalable web applications with modern architectures. My experience spans from crafting responsive frontend interfaces using React and Vue to engineering robust serverless backend deployment using Nest JS and Koyeb. I have experience in building API integration, expertise with JavaScript (TypeScript), and working with a Agile team.
 
